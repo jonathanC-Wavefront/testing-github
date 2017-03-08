@@ -5,4 +5,7 @@ By Jonathan Claypool
 
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Also forgot to say... HELLO WORLD!
+  (. \    /  )
+    P     P 
+     = v = 
+     \___/
